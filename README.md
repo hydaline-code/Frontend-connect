@@ -81,8 +81,6 @@ Clone this repository to your desired folder:
   git clone  https://github.com/hydaline-code/Frontend-connect
 ```
 
--
-
 ### Install
 
 Install this project with:
@@ -121,9 +119,9 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Add more random quotes**
-- [ ] **Improve UI**
-- [ ] **Connect more views**
+-  **Add more random quotes**
+- **Improve UI**
+- **Connect more views**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
