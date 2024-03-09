@@ -12,8 +12,11 @@ export const fetchRandomGreeting = createAsyncThunk(
   },
 );
 
-// We define the reducer function that will handle the updates of the state based on the API result
-// For that, we create a slice using the createSlice function from Redux Toolkit to define the reducer with the initial state and the action that will update the state
+// We define the reducer function that will handle
+// the updates of the state based on the API result
+// For that, we create a slice using the createSlice function
+// from Redux Toolkit to define the reducer
+// with the initial state and the action that will update the state
 
 const initialState = {
   greeting: ' ',
