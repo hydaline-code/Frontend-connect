@@ -16,13 +16,13 @@
 }
 
 .greeting-content {
-  text-align:center;
+  text-align: center;
   display: flex;
   align-items: center;
 }
 
 .greeting-text {
-  text-align:center;
+  text-align: center;
   flex-grow: 1;
   font-size: 18px;
   color: #1df44b;
@@ -44,5 +44,5 @@
 
 .button-text {
   display: flex;
-  flex-direction:row;
+  flex-direction: row;
 }
